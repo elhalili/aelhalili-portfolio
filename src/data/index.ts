@@ -13,16 +13,6 @@ export const resumeData: MyCustomTypes.ColumnEntry[] = [
         link: "https://github.com/elhalili/VaultSync",
       },
       {
-        title: "Moroccan Tic Tac Toe",
-        description: "Android game with MVVM pattern",
-        link: "https://github.com/elhalili/tic-tac-toe",
-      },
-      {
-        title: "Vocabulary to Speech API",
-        description: "Web service for vocabulary audio generation",
-        link: "https://github.com/elhalili/vocabulary-to-speech-api",
-      },
-      {
         title: "OS Scheduling Simulator",
         description: "Desktop app for scheduling algorithms visualization",
         link: "https://github.com/elhalili/OS-Scheduling",
@@ -50,6 +40,11 @@ export const resumeData: MyCustomTypes.ColumnEntry[] = [
     cells: [
       {
         title: "Software Developer Internship",
+        description: "INNOV-DS, Jul 2024 - Sept 2024",
+        link: "https://innov-ds.com/",
+      },
+      {
+        title: "Software Developer Internship",
         description: "INNOV-DS, Apr 2023 - Jun 2023",
         link: "https://innov-ds.com/",
       },
@@ -72,7 +67,7 @@ export const about: MyCustomTypes.About = {
 export const interests: MyCustomTypes.Interests = {
   header: "Now",
   content: [
-    "As I am always interested in low-level programming and the theoretical aspects of computer science, I am now focusing on operating systems and compilers. Additionally, I have a keen interest in statistical analysis and AI.",
+    "As I am always interested in low-level programming and the theoretical aspects of computer science, I am now focusing on operating systems, compilers and distributed systems.",
   ],
 };
 
@@ -81,11 +76,11 @@ export const contact: MyCustomTypes.Contact = {
   startWith: "Reach me at ",
   contacts: [
     {
-      content: "@linkedIn",
+      content: "@linkedin",
       link: "https://www.linkedin.com/in/amine-el-halili/",
     },
     {
-      content: "@Mail",
+      content: "@mail",
       link: "mailto:amine.elhalili1@gmail.com",
     },
   ],
