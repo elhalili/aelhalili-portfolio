@@ -59,7 +59,7 @@ export const resumeData: MyCustomTypes.ColumnEntry[] = [
 
 export const about: MyCustomTypes.About = {
   name: "Amine EL HALILI",
-  occupation: "Tools developer",
+  occupation: "Software Engineer",
   about:
     "As an ambitious software science student, I possess a strong aptitude for problem solving and thrive on the challenge of creating solutions that meet complex requirements. I am passionate about exploring the inner workings of technology and enjoy rebuilding systems from the ground up to gain a deeper understanding of their mechanics.",
 };
