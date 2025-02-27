@@ -8,6 +8,6 @@ const About = (about: MyCustomTypes.About) => {
       </p>
     </section>
   );
-}
+};
 
 export default About;
