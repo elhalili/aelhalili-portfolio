@@ -1,8 +1,8 @@
 /* Font families */
 @font-face {
-  font-family: Inter;
+  font-family: Iosevka;
   font-display: block;
-  src: url(/fonts/inter-subset.woff2) format('woff2');
+  src: url(/fonts/iosevka-regular.ttf) format('ttf');
   font-weight: 100 900;
 }
 
@@ -11,7 +11,7 @@
   --font-fallback: -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  --font-display: 'Inter', var(--font-fallback);
+  --font-display: 'Iosevka', var(--font-fallback);
   /* Text sizes */
   --text-2xl: 30px;
   --text-xl: 24px;
